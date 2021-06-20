@@ -28,6 +28,8 @@ but there is a step that you should do.. what i should do?
   <img src="https://github.com/gzeinnumer/EasySqliteCrudExample/blob/master/preview/example1.JPG" width="400"/>
 </p>
 
+5. Run the app
+
 ---
 
 ```
