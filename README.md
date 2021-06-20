@@ -10,7 +10,7 @@ but there is a step that you should do.. what i should do?
 
 1. Clone this repository
 
-2. Copy folder `MyLibSQLite` to your phone
+2. Copy folder `EasySQLiteCRUDExample` to your phone
 
 <p align="center">
   <img src="https://github.com/gzeinnumer/EasySqliteCrudExample/blob/master/preview/example3.jpg" width="400"/>
